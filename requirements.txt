@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+selenium==4.20.0
+webdriver-manager==4.0.9
+python-dateutil==2.9.0.post0
+undetected-chromedriver==3.5.5
